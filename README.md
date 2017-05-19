@@ -1,4 +1,4 @@
-# ios-foundation-dateformatter
+# DateFormatter
 
 ## 概要
 
